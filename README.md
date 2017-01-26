@@ -2,8 +2,6 @@
 ## In short
 *super timeline all the things*
 
-Docker container for plaso/log2timeline
-
 In short, plaso is a Python-based backend engine for the tool 
 [log2timeline](http://plaso.kiddaland.net "Plaso home of the super timeline").
 
