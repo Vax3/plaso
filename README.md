@@ -8,6 +8,6 @@ In short, plaso is a Python-based backend engine for the tool
 To view the original project on 
 [github](https://github.com/log2timeline/plaso "original github repository")
 
-## Installation
-For deployement juste typing 
-`docker pull vax3/plaso`
+# Usage
+To run it
+`docker run plaso image.E01`
