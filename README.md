@@ -11,4 +11,4 @@ To view the original project on
 # Usage
 To run it
 
-`docker run plaso image.E01`
+`docker run --rm -ti -v /path/to/datas:/datas --privileged --entrypoint bash plaso`
